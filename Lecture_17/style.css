@@ -34,7 +34,7 @@
 .nav>.part2>a {
     text-decoration: none;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 800;
     font-variant: normal;
 }
@@ -58,7 +58,7 @@
     border: 1px solid white;
     padding: 22px 42px 22px 42px;
     border-radius: 12px;
-    font-size: 16px;
+    font-size: 18px;
     border: none;
 }
 
@@ -99,8 +99,8 @@
 }
 
 .hero>.inp>input {
-    padding: 22px;
-    font-size: 16px;
+    padding: 25px;
+    font-size: 18px;
     border-radius: 12px;
     border: none;
     padding-left: 20px;
@@ -503,6 +503,7 @@
     
     display: flex;
     justify-content: space-between;
+    position: relative;
 }
 
 .section4>.container>.box>.p>h2{
